@@ -2,7 +2,7 @@
 
 A mechanistic interpretability study exploring how different "lenses" decode transformer intermediate activations, with a focus on hallucination analysis in large language models.
 
-Read the detailed blog here: [Through the Lenses – A Circuit Odyssey](https://docs.google.com/document/d/1lqqle-WUVm4EEkRZMeCC-BaaJ8Kmvngm_GEQigYzGMY/)
+Read the detailed blog here: [Through the Lenses – A Circuit Odyssey](https://aiclubiitmadras.substack.com/p/through-the-lenses-a-circuit-odyssey)
 
 
 ## Overview
